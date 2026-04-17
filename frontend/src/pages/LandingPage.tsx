@@ -265,7 +265,7 @@ export default function LandingPage() {
 
                   <div className="founder-meta-row">
                     <div className="founder-meta" style={{ fontSize: "0.87em" }}>
-                      早稲田大学 基幹理工学部1年(情報系)
+                      早稲田大学 情報理工学科２年
                     </div>
                     <div className="founder-meta" style={{ fontSize: "0.85em" }}>
                       yutokuroki.projectfluence@gmail.com
@@ -441,7 +441,7 @@ export default function LandingPage() {
         </div>
 
         <footer style={{ maxWidth: 'var(--container-max)', margin: "28px auto 0", padding: 18, textAlign: "center", color: "#dfeeff" }}>
-          <div>All content © 2025 Project Fluence — 黒木 勇人
+          <div>All content © 2026 Project Fluence — 黒木 勇人
           </div>
           <div style={{ marginTop: 8 }}>
             <a href="/privacy" style={{ color: '#dfeeff', textDecoration: 'underline' }}>Privacy Policy</a>
