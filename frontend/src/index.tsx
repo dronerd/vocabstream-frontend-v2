@@ -22,7 +22,17 @@ function App() {
   return (
     <main>
       <section className="card" aria-labelledby="archive-title">
-        <div className="mark" aria-hidden="true">V</div>
+        <div className="migration" aria-label="VocabStreamからProjectFluenceへ">
+          <div className="brand">
+            <img src="/images/vocabstream.png" alt="VocabStream" />
+            <span>VocabStream</span>
+          </div>
+          <span className="migration-arrow" aria-hidden="true">→</span>
+          <div className="brand">
+            <img src="/images/projectfluence.png" alt="ProjectFluence" />
+            <span>ProjectFluence</span>
+          </div>
+        </div>
         <p className="eyebrow">VocabStream</p>
         <h1 id="archive-title">新しいサイトへ移転しました</h1>
         <p className="lead">
